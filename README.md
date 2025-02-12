@@ -1,5 +1,5 @@
-## EMBEDDED TRAINING TASK CODE FILES
+## YOCTO PROJECT - RASPBERRY PI5 IMAGE FILES
 
-This Repository has 6 Branches in Which Each Branch Corresponds to the task being given during the Training Period
+I have attached the Image Files generated for Raspberry Pi 5 board by utilizing Scarthgap Poky Repository for Building the Raspberry pi 5 image it took 6.5 to 7 Hours for completion of Building (Core-image-minimal)
 
-Task6_Yocto_Raspberrypi5 = Creating Image for Raspberry pi 5 board
+
