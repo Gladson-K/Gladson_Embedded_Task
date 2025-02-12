@@ -1,4 +1,4 @@
-# README - STM32 CMSIS-RTOS2 Implementation
+# STM32 CMSIS-RTOS2 Implementation
 
 ## Overview
 This project demonstrates the use of CMSIS-RTOS2 on an STM32F4 microcontroller, implementing various synchronization and scheduling techniques. The functionalities include:
