@@ -1,4 +1,4 @@
-# ADC18TEMP BMP280 Temperature Sensor Driver
+# BMP280 Temperature Sensor Driver
 
 ## Introduction
 This repository contains a **dynamically loadable kernel module (LKM)** for interfacing with the **BMP280 temperature sensor** via the I2C bus on a **Raspberry Pi 5**. The driver provides a character device interface for reading temperature data and communicating with the sensor.
